@@ -1,74 +1,29 @@
-
 {
-  "site": {
-    "name": "Ashapura Brass Industries",
-    "tagline": "Precision Engineering Excellence",
-    "favicon": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=32&q=80"
+  "seo": {
+    "author": "Maa Brass",
+    "keywords": "brass casting, metal manufacturing, precision casting, industrial components, sand casting, die casting, investment casting"
+  },
+  "theme": {
+    "accentColor": "#f59e0b",
+    "primaryColor": "#1e40af",
+    "secondaryColor": "#64748b"
+  },
+  "social": {
+    "twitter": "https://twitter.com/maabrasscasting",
+    "facebook": "https://facebook.com/maabrasscasting",
+    "linkedin": "https://linkedin.com/company/maa-brass"
   },
   "company": {
-    "name": "Ashapura Brass Industries",
-    "tagline": "Precision Engineering Excellence",
-    "logo": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?auto=format&fit=crop&w=100&q=80",
-    "description": "At ashapura brass industries we produce precision components."
+    "name": "Maa Brass",
+    "contact": {
+      "email": "info@maabrasscasting.com",
+      "phone": "+91 288 123 4567",
+      "address": "Industrial Estate, Jamnagar, Gujarat 361001, India"
+    },
+    "industry": "Casting Manufacturing",
+    "description": "A leading brass casting manufacturer with 90+ years of expertise in delivering high-quality, precision-engineered metal components across multiple industries",
+    "establishedYear": 1933
   },
-  "contact": {
-    "address": "Digvijay plot, jamnagar, gujrat",
-    "phone": "+91-9876543210",
-    "email": "info@ashabrass.com",
-    "timing": [
-      {
-        "label": "Mon - Fri",
-        "hours": "9:00 AM - 6:00 PM"
-      },
-      {
-        "label": "Saturday",
-        "hours": "9:00 AM - 2:00 PM"
-      }
-    ]
-  },
-  "header": {
-    "navigation": [
-      { "label": "Home", "href": "/" },
-      { "label": "About Us", "href": "/about" },
-      { "label": "Services", "href": "/services" },
-      { "label": "Products", "href": "/products" },
-      { "label": "Contact", "href": "/contact" }
-    ]
-  },
-  "footer": {
-    "navigation": [
-      { "label": "Home", "href": "/" },
-      { "label": "About Us", "href": "/about" },
-      { "label": "Services", "href": "/services" },
-      { "label": "Products", "href": "/products" },
-      { "label": "Contact", "href": "/contact" }
-    ],
-    "social": [
-      {
-        "platform": "facebook",
-        "url": "https://facebook.com/lorem",
-        "icon": "facebook"
-      },
-      {
-        "platform": "linkedin",
-        "url": "https://linkedin.com/company/lorem",
-        "icon": "linkedin"
-      },
-      {
-        "platform": "twitter",
-        "url": "https://twitter.com/lorem",
-        "icon": "twitter"
-      },
-      {
-        "platform": "instagram",
-        "url": "https://instagram.com/lorem",
-        "icon": "instagram"
-      }
-    ],
-    "branding": {
-      "text": "Made with ❤️ by",
-      "company": "Ferralabs",
-      "url": "https://ferralabs.in" 
-    }
-  }
+  "siteName": "Maa Brass",
+  "siteDescription": "Premier brass casting foundry specializing in high-precision manufacturing solutions for automotive, plumbing, electrical, and industrial sectors"
 }
